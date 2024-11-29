@@ -1,1 +1,36 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "STROKE_COLOR": {
+      "red": 255.0,
+      "green": 255.0,
+      "blue": 255.0,
+      "alpha": 2.55
+    },
+    "RAY_MINIMUM_SPEED": 0.0,
+    "RAY_GAUSSIAN_FACTOR": 0.1,
+    "WIDTH": 2000,
+    "HEIGHT": 2000,
+    "PARTICLE_RADIUS": 200.0,
+    "BACKGROUND_COLOR": {
+      "red": 10.0,
+      "green": 10.0,
+      "blue": 10.0,
+      "alpha": 255.0
+    },
+    "RAY_ANGULAR_FACTOR": 10.0,
+    "PARTICLE_NUMBER": 4000.0,
+    "MAXIMUM_RECURSION": 100000,
+    "RAY_INITIAL_ANGULAR_FACTOR": 1.1,
+    "RAY_MAXIMUM_SPEED": 5.0,
+    "PARTICLE_STARTING_POSITION": {
+      "x": 200.0,
+      "y": 1000.0,
+      "z": 0.0
+    },
+    "SEED": 11021985,
+    "GRID_SIZE": 201.5,
+    "PARTICLE_GAUSSIAN_FACTOR": 0.001,
+    "NUMBER_OF_RAYS": 100000,
+    "RAY_INITIAL_GAUSSIAN_FACTOR": 0.01
+  }
+}
